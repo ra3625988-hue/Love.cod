@@ -1,0 +1,21 @@
+body{
+    background-image: url("love.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height:90vh;
+    border: 5px solid #e4d2d2;
+}
+
+h2{
+    color: #87ceeb;
+    text-align: center;
+    text-shadow: 2px 2px 5px black;
+}
+
+p{
+    text-align: center;
+    color: #c92929;
+    font-size:30px;
+    margin-top: 500px;
+}

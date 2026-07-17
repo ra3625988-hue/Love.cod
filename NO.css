@@ -1,0 +1,23 @@
+body{
+    background-image: url("images/hurt.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height:100vh;
+    border: 5px solid #e4d2d2;
+}
+
+h2{
+    color: #87ceeb;
+    text-align: center;
+    text-shadow: 2px 2px 5px black;
+}
+
+p{
+    text-align: center;
+    color: #dcd5d5;
+    font-size:40px;
+    margin-top:500px;
+    border-block-color: #fdfd4e
+  
+}
